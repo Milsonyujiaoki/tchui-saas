@@ -4,3 +4,9 @@
 [submodule "Brainstorm"]
 	path = Brainstorm
 	url = git@github.com:Milsonyujiaoki/Brainstorm.git
+[submodule "proj-03-ultimate-runtime"]
+	path = proj-03-ultimate-runtime
+	url = git@github.com:Milsonyujiaoki/proj-03-ultimate-runtime.git
+[submodule "acai_init"]
+	path = acai_init
+	url = git@github.com:Milsonyujiaoki/acai_init.git
