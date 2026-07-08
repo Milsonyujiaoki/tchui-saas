@@ -10,3 +10,9 @@
 [submodule "acai_init"]
 	path = acai_init
 	url = git@github.com:Milsonyujiaoki/acai_init.git
+[submodule "e-commerce-replit"]
+	path = e-commerce-replit
+	url = git@github.com:Milsonyujiaoki/e-commerce-replit.git
+[submodule "lab-mobile"]
+	path = lab-mobile
+	url = git@github.com:Milsonyujiaoki/lab-mobile.git
